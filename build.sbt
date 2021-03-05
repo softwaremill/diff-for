@@ -4,7 +4,7 @@ import sbtcrossproject.CrossPlugin.autoImport.{CrossType, crossProject}
 val v2_12 = "2.12.8"
 val v2_13 = "2.13.1"
 
-val scalatestVersion = "3.2.4"
+val scalatestVersion = "3.2.5"
 val specs2Version = "4.10.6"
 val smlTaggingVersion = "2.2.1"
 
